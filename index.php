@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     
-    <title>titulo del proyecto</title>
+    <title>titulo del proyecto2</title>
 </head>
 <body>
    <h1>etiqueta h1 para el título y buscador de google </h1>
